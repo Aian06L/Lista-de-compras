@@ -31,8 +31,8 @@ public class Principal {
         System.out.println("-------Atribuições-------");
         System.out.println("Deseja fazer alguma modificação??");
         char res = sc.next().charAt(0);
-        System.out.println("-------Adicionais-------");
         if (res == 'y') {
+        System.out.println("-------Adicionais-------");
             int req = 0;
 
             while (req != 4) {
