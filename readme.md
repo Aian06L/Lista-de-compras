@@ -2,8 +2,7 @@
 
 ## Sistema de Gerenciamento de Lista de Compras
 
-•  
-## Definição do projeto
+### Definição do projeto
 
   ◦ Nome : Lista de Compras
   ◦ Descrição : Sistema interativo para gerenciamento de lista de compras em Java
@@ -17,24 +16,18 @@
     ■ Produto 1: Arroz - R$ 20.00
     ■ Produto 2: Feijão - R$ 8.50
     ■ Total: R$ 28.50
-
-•  
-## Requisitos do projeto
-
-  ◦  
+    
 ### Definição da tecnologia
 
    a. Java
    b. ArrayList
    c. Scanner (para entrada de dados)
-  ◦  
+    
 ### Requisitos
 
    a. Ter instalado em sua máquina alguma IDE Java (Eclipse, IntelliJ IDEA, NetBeans, etc).
    b. Java JDK 8 ou superior instalado.
-
-
-•  
+ 
 ## Executar projeto
 
 1. Clone este repositório em sua máquina utilizando o gitbash:
@@ -51,9 +44,8 @@ git clone "URL_DO_SEU_REPOSITORIO"
    - Informar quantos produtos deseja adicionar inicialmente
    - Digitar o nome e valor de cada produto
    - Escolher se deseja fazer modificações (adicionar, visualizar ou remover itens)
-
-•  
-## Estrutura do Projeto
+  
+### Estrutura do Projeto
 
 ```
 Lista-de-compras/
@@ -68,15 +60,14 @@ Lista-de-compras/
 ```
 
 •  
-## Funcionalidades
+### Funcionalidades
 
 1. **Adicionar Produtos**: Cadastre produtos com nome e valor
 2. **Visualizar Lista**: Veja todos os produtos cadastrados com seus respectivos valores
 3. **Remover Produtos**: Remova produtos da lista por índice
 4. **Interface Interativa**: Menu intuitivo para navegar entre as opções
-
-•  
-## Exemplo de Uso
+  
+### Exemplo de Uso
 
 ```
 -------------Seja Bem-vindo-------------
